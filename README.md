@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitshah2406" alt="mitshah2406" /></a> </p>
 
-- Next.js, DSA **Next.js, DSA**
+- Currently Learning - **Machine Learning, Next.js, DSA**
 
 - 👯 I’m looking to collaborate on **Open Source Reporsitories**
 
