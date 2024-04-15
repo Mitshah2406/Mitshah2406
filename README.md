@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mitshah2406@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1eeAOPm8baV-I14Xbkq3qNO-Nh-oYjbea/view?usp=sharing](https://drive.google.com/file/d/1eeAOPm8baV-I14Xbkq3qNO-Nh-oYjbea/view?usp=sharing)
+- 📄 Resume [Link](https://drive.google.com/file/d/1eeAOPm8baV-I14Xbkq3qNO-Nh-oYjbea/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
